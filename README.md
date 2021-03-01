@@ -1,2 +1,2 @@
 # vim-configuration
-my vimrc file
+my personal vimrc configurations
